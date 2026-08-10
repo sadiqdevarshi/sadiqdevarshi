@@ -168,8 +168,11 @@ Projects focused on Artificial Intelligence, NLP and real-world problem solving.
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg"
     width="100%"
+    onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg';"
   />
 </picture>
+
+<p><i>Contribution snake generated automatically from GitHub activity.</i></p>
 
 </div>
 

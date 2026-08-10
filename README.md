@@ -1,126 +1,226 @@
-# 👋 Hi, I'm Sadiq Devarshi
+<div align="center">
 
-### 💻 Computer Engineering Student | AI & Web Development Enthusiast
+<!-- ==================== HEADER ==================== -->
 
-I’m a Computer Engineering student passionate about **Artificial Intelligence, Web Development, and building real-world software projects**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Hi%20There,%20I'm%20Sadiq%20Devarshi!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%7C%20Web%20Development&descAlignY=58&descAlign=50" width="100%"/>
 
-I enjoy learning new technologies and turning ideas into practical applications.
+<!-- ==================== TYPING ANIMATION ==================== -->
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+</a>
+
+<br><br>
+
+<!-- ==================== SOCIAL BADGES ==================== -->
+
+<a href="mailto:sadiqdevershi@gmail.com">
+<img src="https://img.shields.io/badge/Email-sadiqdevershi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
+<img src="https://img.shields.io/badge/LinkedIn-Sadiq%20Devarshi-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sadiqdevarshi/">
+<img src="https://img.shields.io/badge/Instagram-@sadiqdevarshi-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sadiqdevarshi">
+<img src="https://img.shields.io/badge/GitHub-sadiqdevarshi-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="mailto:sadiqdevershi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sadiqdevarshi/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sadiqdevarshi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- 🎓 Computer Engineering Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌐 Interested in Web Development
+- 💡 Passionate about turning ideas into practical software
+- 🚀 Building real-world projects and learning through development
+- 🧠 Improving programming, problem-solving and software development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,js,git,github,vscode,firebase,mongodb,mysql&perline=7"/>
+### 💻 Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&perline=5"/>
 
----
+### 🌐 Web Development
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5"/>
 
-### 🤖 AI Tracker for Drug Trafficking in Social Media
+### 🤖 AI / Machine Learning
 
-AI-based project focused on identifying and analyzing suspicious social-media content.
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5"/>
 
-**Technologies:** Python • AI/ML • NLP • Computer Vision
+### 🗄️ Database & Backend
 
-🔗 [View Repository](https://github.com/sadiqdevarshi/Ai-tracker-for-drug-trafficing-in-social-media)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,fastapi&perline=5"/>
 
----
+### 🔧 Tools
 
-### 🏠 RateMyPG
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5"/>
 
-A platform concept designed to help students discover and evaluate PGs and hostels using real user reviews and information.
-
-**Technologies:** Web Development • Database • AI
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiqdevarshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-</p>
+<div align="center">
 
----
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"/>
 
-## 🔥 GitHub Streak
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sadiqdevarshi&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Activity
+# 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com/?user=sadiqdevarshi&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" />
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadiqdevarshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+</div>
 
 ---
 
-## 🐍 My Contributions
+# 📈 GitHub Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg">
-    <img alt="GitHub contribution snake animation" src="./output/github-snake.svg">
-  </picture>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-## 📌 Current Focus
+# 🏆 GitHub Trophies
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌐 Web Development
-* 🧠 Problem Solving
-* 🗄️ Databases
-* 🚀 Building real-world projects
-* 📚 Improving software development skills
+<div align="center">
 
----
+<img src="https://trophy.ryglcloud.net/?username=sadiqdevarshi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sadiqdevarshi&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>💡 Learning • Building • Improving</b>
-</p>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sadiqdevarshi">
+
+<img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<b>🏠 RateMyPG</b>
+
+<br>
+
+Student-focused PG & Hostel discovery and review platform.
+
+<br><br>
+
+<b>🤖 AI Projects</b>
+
+<br>
+
+Projects focused on Artificial Intelligence, NLP and real-world problem solving.
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+---
+
+# 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&theme=github-compact&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:sadiqdevershi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-sadiqdevershi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
+<img src="https://img.shields.io/badge/LinkedIn-Sadiq%20Devarshi-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/sadiqdevarshi/">
+<img src="https://img.shields.io/badge/Instagram-@sadiqdevarshi-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sadiqdevarshi&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Learning • Building • Improving 🚀
+
+</div>
+
+<!-- ==================== FOOTER ==================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
+
+</div>

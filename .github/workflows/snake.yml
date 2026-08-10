@@ -26,6 +26,17 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg
 
+      - name: List generated files
+        run: |
+          echo "Dist contents:"
+          ls -la dist || true
+
+      - name: Upload dist artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-dist
+          path: dist/*
+
       - name: Publish generated files to output branch
         run: |
           git config user.name "github-actions[bot]"

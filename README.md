@@ -101,7 +101,7 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadiqde
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&v=2" width="100%"/>
 
 </div>
 

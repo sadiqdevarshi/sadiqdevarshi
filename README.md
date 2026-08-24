@@ -17,6 +17,9 @@
 <a href="https://github.com/sadiqdevarshi">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
+  <img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -56,10 +59,10 @@ fun_fact: I turn ideas into projects 🚀
 
 **Web Development**
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-555555?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **AI / Machine Learning**
 
@@ -93,7 +96,6 @@ fun_fact: I turn ideas into projects 🚀
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF&border_color=333333"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF&border_color=333333"/>
 
 <br/>
@@ -112,14 +114,9 @@ fun_fact: I turn ideas into projects 🚀
 
 <div align="center">
 
-<a href="https://github.com/sadiqdevarshi/Ai-tracker-for-drug-trafficing-in-social-media">
-  <img src="https://img.shields.io/badge/AI%20Tracker%20Project-View%20Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sadiqdevarshi">
+  <img src="https://img.shields.io/badge/GitHub-View%20Repositories-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/sadiqdevarshi/Ai-tracker-for-drug-trafficing-in-social-media?style=for-the-badge&color=555555&label=Stars"/>
-
-<br/><br/>
-
-<sub>AI-based academic prototype focused on NLP, risk scoring and analysis of public social-media content.</sub>
 
 </div>
 
@@ -148,7 +145,6 @@ fun_fact: I turn ideas into projects 🚀
 <a href="https://github.com/sadiqdevarshi">
   <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
   <img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
@@ -163,7 +159,7 @@ fun_fact: I turn ideas into projects 🚀
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sadiqdevarshi&color=555555&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=sadiqdevarshi\&color=555555\&style=flat-square\&label=Profile+Views)
 
 </div>
 ```

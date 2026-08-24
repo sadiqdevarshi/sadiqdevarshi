@@ -1,230 +1,169 @@
+# README.md
+
+````markdown
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=220&section=header&text=Hi%20There,%20I'm%20Sadiq%20Devarshi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%26%20LLM%20Enthusiast%20%7C%20Building%20%26%20Learning&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=220&section=header&text=Hi%20There,%20I'm%20Sadiq%20Devarshi!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20AI%20%7C%20Web%20Development&descAlignY=58&descAlign=50" width="100%"/>
-
-<!-- ==================== TYPING ANIMATION ==================== -->
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B3B3B3&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile+%F0%9F%91%8B;I+build+AI-powered+applications+%F0%9F%A4%96;Computer+Engineering+Student+%F0%9F%8E%93;Exploring+AI%2C+LLMs%2C+NLP+%26+Cloud+%E2%98%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br/>
 
-<!-- ==================== SOCIAL BADGES ==================== -->
-
-<a href="mailto:sadiqdevershi@gmail.com">
-<img src="https://img.shields.io/badge/Email-sadiqdevershi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
-<img src="https://img.shields.io/badge/LinkedIn-Sadiq%20Devarshi-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sadiqdevarshi/">
-<img src="https://img.shields.io/badge/Instagram-@sadiqdevarshi-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
+<!-- Social badges -->
 <a href="https://github.com/sadiqdevarshi">
-<img src="https://img.shields.io/badge/GitHub-sadiqdevarshi-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🌐 Interested in Web Development
-- 💡 Passionate about turning ideas into practical software
-- 🚀 Building real-world projects and learning through development
-- 🧠 Improving programming, problem-solving and software development skills
+```yaml
+name: Sadiq Devarshi
+role: Computer Engineering Student
+location: India
+currently_working_on: AI, LLM, NLP and Web Development projects
+currently_learning: AI, LLMs, NLP, Cloud Computing and Web Development
+ask_me_about: AI, LLMs, NLP, Web Development and Computer Engineering
+fun_fact: I turn ideas into projects 🚀
+````
 
----
+* 🔭 I'm currently working on **AI, LLM, NLP and Web Development projects**
+* 🌱 I'm currently learning **AI, LLMs, NLP, Cloud Computing & Web Development**
+* 🎓 Pursuing **Computer Engineering**
+* 👯 I'm looking to collaborate on **AI/ML, NLP and open-source projects**
+* 💬 Ask me about **AI, LLMs, NLP, Web Development and Computer Engineering**
+* ⚡ Fun fact: **I turn ideas into projects**
+
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript&perline=5"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1A1A1A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-555555?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-### 🌐 Web Development
+**Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&perline=5"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-555555?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-### 🤖 AI / Machine Learning
+**AI / Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-333333?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-555555?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-666666?style=for-the-badge&logoColor=white"/>
 
-### 🗄️ Database & Backend
+**Database & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,fastapi&perline=5"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-333333?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-555555?style=for-the-badge&logoColor=white"/>
 
-### 🔧 Tools
+**Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=5"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-555555?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-666666?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats-fast.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF&border_color=333333"/>
 
-<img height="180"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&bg_color=0D0D0D&title_color=FFFFFF&text_color=B3B3B3&icon_color=FFFFFF&border_color=333333"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqdevarshi&background=0D0D0D&ring=808080&fire=B3B3B3&currStreakLabel=FFFFFF&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080&border=333333" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=0D0D0D&color=FFFFFF&line=808080&point=B3B3B3&area=true&hide_border=false&custom_title=GitHub%20Activity" width="100%"/>
 
 </div>
 
----
+<br/>
 
-# 🔥 GitHub Streak
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sadiqdevarshi&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" />
+<a href="https://github.com/sadiqdevarshi/Ai-tracker-for-drug-trafficing-in-social-media">
+  <img src="https://img.shields.io/badge/AI%20Tracker%20Project-View%20Repo-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/github/stars/sadiqdevarshi/Ai-tracker-for-drug-trafficing-in-social-media?style=for-the-badge&color=555555&label=Stars"/>
+
+<br/><br/>
+
+<sub>AI-based academic prototype focused on NLP, risk scoring and analysis of public social-media content.</sub>
 
 </div>
 
----
+<br/>
 
-# 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&v=2" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
 </div>
 
----
+<br/>
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
-
-<img src="https://trophy.ryglcloud.net/?username=sadiqdevarshi&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=0D0D0D&color=FFFFFF&line=808080&point=B3B3B3&area=true&hide_border=false&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
----
+<br/>
 
-# 🚀 Featured Projects
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/sadiqdevarshi">
-
-<img src="https://img.shields.io/badge/View%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<b>🏠 RateMyPG</b>
-
-<br>
-
-Student-focused PG & Hostel discovery and review platform.
-
-<br><br>
-
-<b>🤖 AI Projects</b>
-
-<br>
-
-Projects focused on Artificial Intelligence, NLP and real-world problem solving.
-
-</div>
-
----
-
-# 🐍 My Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake-dark.svg?v=2"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg?v=2"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg?v=2"
-    width="100%"
-  />
-</picture>
-
-<p><i>Contribution snake generated automatically from GitHub activity.</i></p>
-
-</div>
-
----
-
-# 📅 Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiqdevarshi&theme=dracula" width="100%"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:sadiqdevershi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sadiqdevershi%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=GitHub&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sadiq-devarshi-010718340/">
-<img src="https://img.shields.io/badge/LinkedIn-Sadiq%20Devarshi-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sadiqdevarshi/">
-<img src="https://img.shields.io/badge/Instagram-@sadiqdevarshi-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-1A1A1A?style=flat-square&logo=LinkedIn&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=120&section=footer" width="100%"/>
+</div>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sadiqdevarshi&label=PROFILE%20VIEWS&color=000000&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sadiqdevarshi&color=555555&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
----
-
-<div align="center">
-
-### 💻 Learning • Building • Improving 🚀
-
-</div>
-
-<!-- ==================== FOOTER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer" width="100%"/>
-
-</div>
-
-<!-- trigger-timestamp: 2026-08-10T00:00:00Z -->
+```

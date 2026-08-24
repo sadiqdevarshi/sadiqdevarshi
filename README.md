@@ -78,10 +78,10 @@
 <div align="center">
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"/>
+src="https://github-readme-stats-fast.vercel.app/api?username=sadiqdevarshi&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true"/>
 
 <img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadiqdevarshi&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -101,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqdevarsh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&v=2" width="100%"/>
 
 </div>
 
@@ -158,17 +158,16 @@ Projects focused on Artificial Intelligence, NLP and real-world problem solving.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake-dark.svg?v=2"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg?v=2"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/sadiqdevarshi/sadiqdevarshi/output/github-snake.svg?v=2"
     width="100%"
-    onerror="this.onerror=null;this.src='https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg';"
   />
 </picture>
 
@@ -178,11 +177,11 @@ Projects focused on Artificial Intelligence, NLP and real-world problem solving.
 
 ---
 
-# 📅 Contribution Graph
+# 📅 Profile Summary
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadiqdevarshi&theme=dracula" width="100%"/>
 
 </div>
 

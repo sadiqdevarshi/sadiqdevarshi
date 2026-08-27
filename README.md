@@ -6,8 +6,8 @@
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=00E6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+profile!;Computer+Engineering+Student;AI+%26+Web+Development+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" alt="Typing SVG"/>
 </a>
 
 <br><br>
@@ -91,7 +91,7 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadiqde
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=sadiqdevarshi&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqdevarshi&theme=dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -101,7 +101,7 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sadiqde
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadiqdevarshi&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true&v=2" width="100%"/>
+<img src="https://ghchart.rshah.org/00ff9f/sadiqdevarshi" alt="GitHub Contribution Activity Graph" width="100%"/>
 
 </div>
 
